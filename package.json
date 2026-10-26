@@ -1,0 +1,10 @@
+{
+  "name": "boggle-party-web",
+  "version": "1.0.3",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test *.test.js",
+    "servir": "python3 -m http.server 8080"
+  }
+}
